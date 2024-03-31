@@ -1,0 +1,29 @@
+1) Open account 
+
+Enter your full name: Rimjhim Sharma
+Enter your address: Jaipur
+What type of account you want to open saving(S) or Current(C): S
+Enter How much money you want to deposit: 8000
+Account Created Successfully
+-------------------------------------------------
+
+2) Deposit account 
+
+Enter how much money you want to deposit: 9500
+
+ Available Balance: 17500
+-------------------------------------------------
+
+2) Withdraw money 
+
+Enter how much money you want to withdraw: 3200
+
+ Available balance: 14300
+-------------------------------------------------
+
+4) Display Account 
+
+Name: Rimjhim Sharma
+Address: Jaipur
+Type: S
+Balance: 14300
